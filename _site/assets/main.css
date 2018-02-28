@@ -37,10 +37,6 @@ img {
   max-width: 100%;
   vertical-align: middle; }
 
-  img[alt=demian] { height: 300px }
-  img[alt=white] { height: 300px }
-  img[alt=bartleby] { height: 300px }
-
 /**
  * Figures
  */
